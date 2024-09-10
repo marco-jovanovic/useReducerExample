@@ -174,3 +174,8 @@ PROJECT CSS
   margin: 0 auto;
   padding: 5rem 2rem;
 }
+
+.text-change {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
